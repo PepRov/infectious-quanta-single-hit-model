@@ -83,6 +83,3 @@ The simulation and posterior sampling steps use fixed random seeds. Small differ
 
 This study uses simulation rather than participant-level or clinical data. No external individual-level dataset is required to reproduce the computational analyses in this repository.
 
-## License
-
-A software license will be added before public release.

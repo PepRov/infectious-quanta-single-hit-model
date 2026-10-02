@@ -20,7 +20,7 @@ Reproduces the source-to-recipient aerosol exposure calculation used in the manu
 - the expected number of inhaled aerosols, `mu`;
 - the inhaled aerosol-radius distribution, `f_R(r)`.
 
-Using the baseline exposure settings, the calculation gives `mu ≈ 350.76`, reported approximately as `mu = 350` in the manuscript simulation settings.
+Using the baseline exposure settings, the calculation gives `mu ≈ 350.76`, reported approximately as `mu = 350.00` in the manuscript simulation settings.
 
 ### `notebooks/02_Baseline_Calibration_and_Recovery.ipynb`
 

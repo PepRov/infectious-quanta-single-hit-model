@@ -29,7 +29,7 @@ Reproduces the baseline calibration and in vivo recovery analysis.
 The notebook:
 
 - generates the calibration and in vivo simulation outcomes;
-- fits the one-parameter Stan model for the identifiable product `phi = n q`;
+- fits the one-parameter Stan model for the identifiable product `phi = n x q`;
 - determines `q` from the calibration setting with known `n_cal`;
 - recovers `n_vivo` from the independently estimated in vivo product;
 - reconstructs the corresponding inhaled quantum dose `Q_inh`.
